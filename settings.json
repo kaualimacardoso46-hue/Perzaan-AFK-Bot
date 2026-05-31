@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "kkkkgg.aternos.me:60415",
+    "ip": "kkkkgg.aternos.me",
     "port": 60415,
     "version": "1.21.4"
   },
