@@ -1,14 +1,14 @@
 {
-  "name": "AFK Bot",
+  "name": "Bot24horasVSsquad",
   "bot-account": {
     "username": "PerzaanLive",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "example.aternos.me",
-    "port": 92591,
-    "version": "1.21.1"
+    "ip": "kkkkgg.aternos.me:60415",
+    "port": 60415,
+    "version": "1.21.4"
   },
   "position": {
     "enabled": true,
